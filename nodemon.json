@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "ali",
+    "DB_PASSWORD": "alibali",
+    "DB_NAME": "mern",
+    "LOCATION_API_KEY": "pk.3cdfaba8223e435e3470e1c4973eb8ed",
+    "JWT_KEY": "supersecret_dont_share"
+  }
+}
